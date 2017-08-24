@@ -1,9 +1,9 @@
-﻿/*
+/*
 ><><><><><><><><><><><><><><><><><><><><><><><><><><><
 >													 
->        Develeoper :  Emre Berber
->		   Filename :  Array.cs
->		      Other :  emreberber.com 
+>              Developer :  Emre Berber
+>		Filename :  Array.cs
+>		   Other :  emreberber.com 
 >
 ><><><><><><><><><><><><><><><><><><><><><><><><><><><
 */

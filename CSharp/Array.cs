@@ -1,7 +1,7 @@
 /*
 ><><><><><><><><><><><><><><><><><><><><><><><><><><><
 >													 
->               Developer :  Emre Berber
+>              Developer :  Emre Berber
 >		Filename :  Array.cs
 >		   Other :  emreberber.com 
 >

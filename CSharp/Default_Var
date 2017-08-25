@@ -3,7 +3,7 @@ Value type - Default value
 bool 	        false
 byte 	        0
 char 	        '\0'
-decimal 	    0.0M
+decimal 	0.0M
 double 	        0.0D
 float 	        0.0F
 int 	        0

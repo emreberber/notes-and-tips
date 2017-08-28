@@ -35,7 +35,7 @@ namespace Array
             int[] array1 = new int[10], array2 = new int[10];
 
             //Birden fazla dizi bildirimi
-            int[] dizi3, dizi4;
+            int[] array3, array4;
 
             //Foreach döngüsü ile dizinin elemanlarını sadece okuyabiliriz.
             int[] F_array = { 1, 2, 3, 4, 5 };

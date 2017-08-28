@@ -1,8 +1,5 @@
 <?php
 
-
-// VERİTABANI BAGLANTISI
-
 try
 {
 	$db=new PDO("mysql:host=localhost;dbname=veritabanı;charset=utf8",'kullanıcı','sifre');

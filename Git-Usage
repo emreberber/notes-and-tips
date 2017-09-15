@@ -12,3 +12,7 @@ git remote add repo http..
 git remote => repo
 git pull repo master
 git push -u repo master
+
+
+refusing to merge unrelated histories Error:
+--> git pull origin master --allow-unrelated-histories

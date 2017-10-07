@@ -1,0 +1,11 @@
+
+Pycharm Community Install 
+--------------------------------
+
+*Download PyCharm Linux tar.gz 
+
+$ cd Downloads/
+$ cd pycharm-community-2017.2.3/
+$ cd bin/
+$ ./pycharm.sh
+

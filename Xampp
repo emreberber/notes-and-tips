@@ -1,0 +1,16 @@
+### Xampp for Linux Mint 
+
+--Installing--
+1)Download .run file in offical xampp website
+2)Open your Terminal
+3)cd Downloads
+4)sudo chmod +x xampp-linux-x64-7.1.7.0-installer.run
+5)sudo ./xampp-linux-x64-7.1.7.0-installer.run
+
+--Using--
+for Open :/opt/lampp/lampp start
+for Stop :/opt/lampp/lampp stop
+
+
+
+// EMRE BERBER ;

@@ -9,3 +9,11 @@ $ cd pycharm-community-2017.2.3/
 $ cd bin/
 $ ./pycharm.sh
 
+----
+
+rm -fv /usr/local/bin/charm
+rm -rfv ~/Library/Preferences/PyCharm?0
+rm -rfv ~/Library/Caches/PyCharm?0
+rm -rfv ~/Library/Application\ Support/PyCharm?0
+rm -rfv ~/Library/Logs/PyCharm?
+

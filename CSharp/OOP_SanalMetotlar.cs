@@ -11,6 +11,7 @@
 
 using System;
 
+
 class Sekil
 {
     public double Boy;

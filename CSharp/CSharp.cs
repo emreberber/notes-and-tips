@@ -12,7 +12,6 @@
 using System;
 
 
-
 namespace CSharp  // Program.cs dosyasında dahil edeğemiz alan
 {
     public class RastgeleSayi
